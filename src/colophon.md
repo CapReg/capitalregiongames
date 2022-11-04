@@ -16,6 +16,7 @@ The creator of this site is indebted to [518Games](http://518games.com/) of whic
 
 * [Paper Subtle Pattern Background EP Natural White](https://www.toptal.com/designers/subtlepatterns/ep-natural-white/)
 * [Vintage Barrel](https://graphicgoods.net/downloads/free-vintage-illustrations-vol-2/)
+* [Other Vintage Images](https://www.rawpixel.com/image/572571/the-wolverine-vintage-artwork)
 
 ## Resources
 

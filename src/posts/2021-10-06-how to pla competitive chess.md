@@ -30,7 +30,7 @@ Before moving a piece, check your c's and t. That is: can you check? Can you or 
 
 #### Keeping Score
 
-Perhaps the second biggest difference between competitive chess and at home chess is keeping a record of the game. USCF requires games to be recorded. Both players must write down their moves and that of their opponent's. This is important for resolving disputes (such as the legality of a move or settling a checkmate). [Here](https://blog.chesshouse.com/how-to-read-and-write-algebraic-chess-notation/) is an excellent guide for notating your game. And [here](https://www.ukaaf.org/wp-content/uploads/2020/03/Braille-chess-code-and-layout-UEB.pdf) is one for Braille (I don't know if a Braille reader can read the PDF to be honest). 
+Perhaps the second biggest difference between competitive chess and at home chess is keeping a record of the game. Both players must write down their moves and that of their opponent's. This is important for resolving disputes (such as the legality of a move or settling a checkmate). [Here](https://blog.chesshouse.com/how-to-read-and-write-algebraic-chess-notation/) is an excellent guide for notating your game. And [here](https://www.ukaaf.org/wp-content/uploads/2020/03/Braille-chess-code-and-layout-UEB.pdf) is one for Braille (I don't know if a Braille reader can read the PDF to be honest). 
 
 {% Image "https://blog.chesshouse.com/wp-content/uploads/2017/03/algebraic-chess-notation-sc.jpg", "an image of a chess score sheet. It is a sheet divided in half, the left side for the player's move and the right side for the opponents" %}
 

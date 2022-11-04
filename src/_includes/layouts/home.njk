@@ -1,0 +1,40 @@
+    {% extends "layouts/base.njk" %}
+{% block content %}
+<div class="mb-16">
+    <div class="flex justify-between">
+<img style="width:300px" class="hidden md:block" src="/images/horseright.png">
+<div class="titlecard">
+<h1 class="title text-5xl mt-14">{{title}}</h1>
+<p class="text-center pt-8"><i class="text-2xl">{{summary}}</i></p>
+</div>
+<img style="width:300px" src="/images/horseleft.png">
+</div>
+</div>
+<div class="mb-16">
+    <div class="text-md grid lg:grid-cols-3 md:grid-cols-2 sm:grid-cols-1 gap-4 clear">
+         {% include "partials/time.njk" %}
+         {% include "partials/events.njk" %}
+         {% include "partials/contact.njk" %}
+    </div>
+</div>
+    <article class="mt-8 prose lg:prose-xl text-xl mx-auto center border-b-4 border-gray-200 pb-16 pt-16">
+      {{ content | safe }}
+     </article>
+     <div class="flex justify-between prose lg:prose-xl mx-auto mt-8 pt-16">
+      <h2 class="title text-3xl mt-14">From the Blog</h2>
+  <img style="height:200px; margin-top: -60px; width: auto;" src="https://images.rawpixel.com/image_1000/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvam9iNjcyLTA3NS14LmpwZw.jpg">
+        </div>
+     {% for item in collections.blog %}
+     <article class="mb-8">
+        <div class="flex flex-start justify-between w-full prose lg:prose-xl mx-auto">
+	       <h3 class="italic text-green-200 w-7/12 block">{{ item.data.title }}</h3>
+            <span class=""><time class="bg-blue-200 p-2 serif text-sm" datetime="{{ item.data.date }}"> 🕒 {{ item.data.date | dateFilter }}</time></span>
+         </div>
+         <div class="w-full prose lg:prose-xl mx-auto">
+           <p  class="text-gray-800 font-sans text-lg mb-5">{{ item.data.description }}</p>
+            <a class="p-2 mb-4"href="{{ item.url }}">Read 👉</a>
+       </div>
+       </article>
+        {% endfor %}
+<img style="margin: 0 auto" src="https://images.rawpixel.com/image_1000/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvcGQ0My0wNjA0LTIyMi1qal8wLmpwZw.jpg">
+{% endblock %}

@@ -11,7 +11,7 @@ The Finn Chess Tournaments are low cost [USCF](https://new.uschess.org/) rated e
 
 ### Meeting Information
 
-Meets some Sundays at the Shelly Studio, <address>6 British American Blvd, Suite 103, Latham, NY 12110</address> from 10 a.m. to 5 p.m.
+Meets some Saturdays at the Shelly Studio, <address>6 British American Blvd, Suite 103, Latham, NY 12110</address> from 11:35 a.m. to 7 p.m.
 
 ### Contact Information
 [Facebook](https://www.facebook.com/groups/FinnChessClub/)
@@ -19,4 +19,4 @@ Email: [FinnChessClub@gmail.com](mailto:FinnChessClub@gmail.com)
 
 ### Game Play
 
-Lightly Competitive. These tournaments use clocks and recording moves is suggested.
+Lightly Competitive. These tournaments use clocks and record moves.

@@ -1,7 +1,5 @@
-body {
-  background-image: url("/images/bg/ep_naturalwhite.png");
-  background-repeat: repeat;
-  background-attachment: fixed;
+html,body {
+  background: #f6f6f6;
   font-family: 'Spectral';
   font-weight: 400;
   min-height: 100%;
@@ -12,10 +10,11 @@ body {
   content: '[' counter(footnotes) ']';
   margin-left: 5px;
 }
-h1:first-child {
+h1:first-child, .title  {
   font-family: 'Cinzel Decorative', cursive;
+  color: #EF4444;
 }
-.prose h1, .prose h2 {
+.prose h1, .prose h2, {
   font-family: 'Fondamento', cursive;
    color: #EF4444;
 }
