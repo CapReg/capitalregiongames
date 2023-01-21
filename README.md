@@ -5,6 +5,16 @@ All contributions are happily welcome! You can add a new game place by making a 
 If you see an error or have any suggestions, please feel free to create an issue or email me at: rbrittbus@gmail.com. 
 
 _____________
+11/15/2022
+
+- It's been a year. The site has a complete new redesign 
+- Got rid of scrabble and bridge. Will be putting both into a new genearal page.
+- The site is now mainly chess focused and is created for the Albany Area Chess Club
+
+## To Do
+- Update 11ty to lthe latest version as well as all other libraries used in the project
+- Update content of site to reflect new focus on the AA chess club
+_____________
 12/07/2021
 
  - Added Netlify admin. Must test it to make sure it doesn't break anything. I am not very good with github branches. So far I've been working off the main branch but I might have to consider a separate one
