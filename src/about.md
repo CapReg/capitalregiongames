@@ -18,7 +18,7 @@ We are the premier destination for those who can no longer play chess with their
 
 ## Membership
 
-Come play chess here for the first three weeks free on us. Thereafter, a year's membership is 30 dollars for adults and 25 dollars for children and students. We also offer a family membership plan where the first child's membership is 25 dollars followed by each addtional child being 15 dollars.
+Come play chess here for the first three weeks free on us. Thereafter, a year's membership is 35 dollars for adults and 25 dollars for children and students. We also offer a family membership plan where the first child's membership is 25 dollars followed by each addtional child being 15 dollars.
 
 ____________
 {% footnotes %}
