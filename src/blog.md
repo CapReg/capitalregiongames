@@ -1,7 +1,7 @@
 ---
 title: 'Posts'
 layout: 'layouts/feed.njk'
-summary : 'The latest updates on games.'
+summary : 'Updates and Posts.'
 pagination: 
   data: collections.blog
   size: 6

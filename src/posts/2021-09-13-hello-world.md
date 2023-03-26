@@ -7,16 +7,16 @@ tags:
 ---
 
 ::: callout-yellow
-Hello and welcome to Capital Region Games. Hopefully this place will provide you with information on where to go to play various types of games.
+Hello and welcome to Albany Chess. Hopefully this place will provide you with information on chess in the Capital Region.
 
 If you have places to add, information on existing places on here and/or site suggestions; you are welcome to do so in several ways:
 
 email: rbrittbus@gmail.com
-Github: [Github Issues](https://github.com/CapReg/capitalregiongames/issues). This is more for corrections or if there is an update you would like made
+Github: [Github Issues](https://github.com/CapReg/capitalregiongames/issues). This is more for (code) corrections or if there is an update you would like made. You will need to have a Github account.
 
 ### Contributing
 
-Currently there is no online CMS so adding places will require knowledge of Github and MarkDown. I hope to resolve this in the next several months.
+Currently there is no online CMS so contributing will require knowledge of Github and MarkDown (or alternatively you can email me). I probably will not ever resolve this. 
 :::
 
 This site was born out of a desire to know where one could play Chess. The site I discovered July of this year (ENYCA) was taken down and [518Games](http://518games.com/) had not been updated since 2008. [518Games](http://518games.com/) though was so well curated and organized. I hope this site is half as organized as that one.

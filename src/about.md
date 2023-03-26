@@ -9,7 +9,7 @@ eleventyNavigation:
 ---
 <img style="width: 400px; height: auto; float: left; margin: 10px;" src="https://images.rawpixel.com/image_1000/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvcGQ0My0wNjA0LTM0Ni1qal8wLmpwZw.jpg" alt="">
 
-We are the premier destination for those who can no longer play chess with their {% footnoteref "lovedones","because they get tired of losing" %}loved ones{% endfootnoteref %}. Players here range from absolute beginners to experts. Some players enjoy playing fast 10 minute games while others prefer abstaining from the clock. Some chess players here admire the dramatic style of Paul Morphy while others prefer the meticulous nature of Ruy Lopez. Here you will find players who's age hasn't crossed the double digits play against players over 50. Here you will find a place that will always welcome you to play chess.
+We are the premier destination for those who can no longer play chess with their {% footnoteref "lovedones","because they get tired of losing" %}loved ones{% endfootnoteref %}. Players here range from absolute beginners to experts. Some players enjoy playing fast 10 minute games while others prefer abstaining from the clock. Some chess players here admire the dramatic style of Paul Morphy while others prefer the meticulous nature of Ruy Lopez. Here you will find players whose age hasn't crossed the double digits play against players over 50. Here you will find a place that will always welcome you to play chess.
 
 ## Location & Time
 <b>Meeting Time:</b> Wednesdays after 7:15pm
@@ -19,6 +19,10 @@ We are the premier destination for those who can no longer play chess with their
 ## Membership
 
 Come play chess here for the first three weeks free on us. Thereafter, a year's membership is 35 dollars for adults and 25 dollars for children and students. We also offer a family membership plan where the first child's membership is 25 dollars followed by each addtional child being 15 dollars.
+
+## What to Bring
+
+Chess board and pieces-if you have them. If not, that's ok! One of us will happily lend you ours. 
 
 ____________
 {% footnotes %}
