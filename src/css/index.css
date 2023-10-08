@@ -1,9 +1,12 @@
 html,body {
-  background: #f6f6f6;
+  background-color: #f6f6f6;
   font-family: 'Spectral';
   font-weight: 400;
   min-height: 100%;
   counter-reset: footnotes;
+}
+body {
+  padding-bottom: 5%;
 }
 [role="doc-noteref"]::after {
   counter-increment: footnotes;
