@@ -29,7 +29,7 @@ Chess board and pieces-if you have them. If not, that's ok! One of us will happi
 
 **President** : Chuck E
 **Vice President** : Cory N
-**Secretary**: John L
+**Secretary**: Jon L
 **Treasurer**: Rachel B
 
 <iframe class="w-10/12 h-screen" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTTQ-nN7stImNMZVrybgjRwUgzVGQZMiVhm6x0YV7bwPQfnZLHGWHKWIi0VnvgmgyKeiN_Q7ZPJKRHS/pubhtml?gid=1386834576&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
