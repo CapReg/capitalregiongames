@@ -6,6 +6,7 @@ permalink: '/about/index.html'
 eleventyNavigation:
   key: about
   title: About
+  order: 3
 ---
 <img style="width: 400px; height: auto; float: left; margin: 10px;" src="https://images.rawpixel.com/image_1000/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvcGQ0My0wNjA0LTM0Ni1qal8wLmpwZw.jpg" alt="">
 

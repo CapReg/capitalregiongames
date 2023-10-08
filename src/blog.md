@@ -12,5 +12,5 @@ paginationAnchor: '#post-list'
 eleventyNavigation:
   key: posts
   title: Posts
-  order: 1
+  order: 2
 ---

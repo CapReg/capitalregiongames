@@ -8,6 +8,7 @@ pagination:
 eleventyNavigation:
   key: home
   title: Home
+  order: 1
 ---
 
 The **Albany Area Chess Club** personally invites *you* to come play chess! We are a friendly chess club in the Capital Region located near the Albany International Airport. We offer a fun and affordable way to play chess with others. Stop on by.
