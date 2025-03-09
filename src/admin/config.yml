@@ -26,8 +26,6 @@ collections:
         file: "about.md"
         fields:
           - {label: Body, name: body, widget: "markdown"}
-  - label: "Pages"
-    name: "pages"
     files:
       - label: "Time"
         name: "time"
