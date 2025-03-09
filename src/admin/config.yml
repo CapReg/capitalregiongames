@@ -26,21 +26,18 @@ collections:
         file: "about.md"
         fields:
           - {label: Body, name: body, widget: "markdown"}
-    files:
       - label: "Time"
         name: "time"
         file: "includes/partials/time.njk"
         fields:
           - {label: Meeting Time, name: meetingTime, widget: "text"}
           - {label: Address, name: address, widget: "text"}
-    files:
       - label: "Events"
         name: "events"
         file: "includes/partials/events.njk"
         fields:
           - {label: Event Title, name: eventTitle, widget: "text"}
           - {label: Event Time, name: eventTime, widget: "text"}
-    files:
       - label: "Contact"
         name: "contact"
         file: "includes/partials/contact.njk"
