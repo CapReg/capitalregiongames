@@ -6,6 +6,8 @@ backend:
   publish_mode: editorial_workflow
   media_folder: "src/images/" # Media files will be stored in the repo under src/images/uploads
   public_folder: "/images/" # The src attribute for uploaded media will begin with /images/uploads
+  media_library:
+   name: uploads
 
 collections:
   # Our blog posts
@@ -20,28 +22,24 @@ collections:
       - { label: "Summary", name: "summary", widget: "text" }
       - { label: "Tags", name: "tags", widget: "list"}
       - { label: "Body", name: "body", widget: "markdown" }
+  - label: "Pages"
+    name: "pages"
     files:
       - label: "About"
         name: "about"
         file: "about.md"
         fields:
           - {label: Body, name: body, widget: "markdown"}
-      - label: "Time"
-        name: "time"
-        file: "includes/partials/time.njk"
-        fields:
+    files:
+    - label: "Index page"
+      name: "index"
+      file: "index.md"
+      fields:
           - {label: Meeting Time, name: meetingTime, widget: "text"}
           - {label: Address, name: address, widget: "text"}
-      - label: "Events"
-        name: "events"
-        file: "includes/partials/events.njk"
-        fields:
           - {label: Event Title, name: eventTitle, widget: "text"}
           - {label: Event Time, name: eventTime, widget: "text"}
-      - label: "Contact"
-        name: "contact"
-        file: "includes/partials/contact.njk"
-        fields:
           - {label: Meeting Time, name: meetingTime, widget: "text"}
           - {label: Address, name: address, widget: "text"}
+    
     

@@ -12,9 +12,27 @@
 </div>
 <div class="mb-16">
     <div class="text-md grid lg:grid-cols-3 md:grid-cols-2 sm:grid-cols-1 gap-4 clear">
-         {% include "partials/time.njk" %}
-         {% include "partials/contact.njk" %}
-         {% include "partials/events.njk" %}
+   <div class="callout-time">
+<span class="bg-red-200 text-gray-800 p-2 mb-4">Chess Club 😊</span>
+<h2 class="text-4xl serif mt-4">Meeting Time &#38; Place</h2>
+<time><b>Time</b>{{ meetingtime }}</time>
+<b>Place:</b><address>{{ address }}</address>
+</div>
+<div class="callout-events">
+<span class="bg-red-200 text-gray-800 p-2 mb-4">Events 📅</span>
+<h2 class="text-4xl serif mt-4">{{ eventTitle }}</h2>
+<time><b>Time</b>{{ eventTime }}</time>
+{{ eventDesc}}
+</div>
+<div class="callout-contact">
+<span class="bg-red-200 text-gray-800 p-2 mb-4">Contact 📞</span>
+<h2 class="text-4xl serif mt-4">Contact Us</h2>
+<ul>
+<li><b>Chess Profile:</b> <a class="underline hover:bg-yellow-100" href="https://www.chess.com/club/albany-area-chess-club">Albany Area Chess Club</a>
+</li>
+<li><b>Email:</b> <a class="underline hover:bg-yellow-100" href="mailto:{{ email }}"> {{ email }}</a></li>
+<li><b>Website Maintenance:</b> <a class="underline hover:bg-yellow-100" href=" {{ websitemaintenaceLink }}">Github Issues</a></li></ul>
+</div>
     </div>
 </div>
     <article class="mt-8 prose lg:prose-xl text-xl mx-auto center border-b-4 border-gray-200 pb-16 pt-16">
