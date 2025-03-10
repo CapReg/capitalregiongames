@@ -8,7 +8,7 @@ eventTitle: "AACC Championship"
 eventTime: "Wednesdays after 7:15PM"
 eventDesc: "2025 AACC Championship"
 email : "rbrittbus@gmail.com"
-websitemaintenace:ink: "https://github.com/CapReg/capitalregiongames/issues" 
+websitemaintenaceLink: "https://github.com/CapReg/capitalregiongames/issues" 
 pagination: 
   data: collections.blog
   size: 3

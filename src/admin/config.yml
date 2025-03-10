@@ -39,7 +39,8 @@ collections:
           - {label: Address, name: address, widget: "text"}
           - {label: Event Title, name: eventTitle, widget: "text"}
           - {label: Event Time, name: eventTime, widget: "text"}
-          - {label: Meeting Time, name: meetingTime, widget: "text"}
-          - {label: Address, name: address, widget: "text"}
+          - {label: Event Descrition, name: eventDesc, widget: "text"}
+          - {label: Email, name: email, widget: "text"}
+          - {label: Website Maintenace Link, name: websitemaintenaceLink, widget: "text"}
     
     
