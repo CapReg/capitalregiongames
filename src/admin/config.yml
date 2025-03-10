@@ -1,6 +1,6 @@
 backend:
-  name: github
-  repo: CapReg/capitalregiongames # Path to your GitHub repository
+  name: git-gateway
+  branch: main # Branch to update (optional; defaults to master))
 
   # Uncomment below to enable drafts
   # publish_mode: editorial_workflow
