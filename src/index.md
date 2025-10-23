@@ -15,7 +15,7 @@ eleventyNavigation:
 pagination:
   data: collections.blog
   size: 3
-email: rbrittbus@gmail.com
+email: albany-area-chess-club@googlegroups.com
 ---
 
 The **Albany Area Chess Club** personally invites *you* to come play chess! We are a friendly chess club in the Capital Region located near the Albany International Airport. We offer a fun and affordable way to play chess with others. Stop on by.
