@@ -1,8 +1,8 @@
 ---
 summary: The best by the Airport Chess Club
-meetingTime: Wednesdays after 7:15PM
-eventTitle: No Event
-eventTime: Wednesdays after 7:15PM
+meetingTime: Wednesdays at 7:30PM
+eventTitle: Future events TBA
+eventTime: Wednesdays at 7:30PM
 layout: layouts/home.njk
 address: 6 British American Blvd Ste. 103-D, Latham, NY 12110
 eventDesc: No event. Just chess :)
