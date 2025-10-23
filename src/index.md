@@ -6,7 +6,7 @@ eventTime: Wednesdays after 7:15PM
 layout: layouts/home.njk
 address: 6 British American Blvd Ste. 103-D, Latham, NY 12110
 eventDesc: No event. Just chess :)
-websitemaintenaceLink: https://github.com/CapReg/capitalregiongames/issues
+websitemaintenaceLink: "  "
 title: Albany Area Chess Club
 eleventyNavigation:
   key: home
